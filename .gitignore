@@ -1,0 +1,9 @@
+# data are not redistributed here
+data/
+*.parquet
+DReLAB/
+NF-ToN-IoT-v2/
+# notebooks and Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc

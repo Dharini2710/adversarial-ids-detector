@@ -1,0 +1,2 @@
+Copy the CSV files written by the notebooks here (for example `summary_mean_std.csv`, `ids_sanity.csv`, `extension_summary.csv`, `autoencoder_summary.csv`, `ecod_results.csv`, `whitebox_attack_results.csv`, `blackbox_attack_summary.csv`, `nf_attack_results.csv`, `nf_detector_results.csv`, `timing_two_pass.csv`, `paired_tests_ensemble_vs_baselines.csv`, `confusion_counts_pooled.csv`).
+They are the source of every number in the paper's tables.
